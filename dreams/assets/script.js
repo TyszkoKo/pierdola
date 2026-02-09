@@ -1,4 +1,4 @@
-const SHEET_URL = "https://docs.google.com/spreadsheets/d/1xBj_2Xju7OM5CZ1VzHQSPOBidbvvqtw0sqc54kiVgtE/edit?usp=sharing";
+const SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWKG50GKuriKXukfvG0cO1siOGtBmJ-v9wpxpx58x_eLkGd21A5QdUCiE3LXnTGoqXX2WadbLZM18_/pub?gid=0&single=true&output=csv";
 
 const categoryMap = {
     "SPR": "Sprzęt",
