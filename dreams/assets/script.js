@@ -50,5 +50,7 @@ function renderList(){
       ${item.link ? `<a href="${item.link}" target="_blank">${item.name}</a>` : item.name}
     `;
     list.appendChild(li);
+      
   });
+document.getElementById("filterCategory").addEventListener("change", renderList);
 }
