@@ -1,14 +1,10 @@
 const SHEET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRppV24sIlzNsiAGRsl12a_lz78cC1O2q6P2azGtiFGe5xe5lQWLXhQ-uwc88vDrMSybrvqOkCGx3e-/pub?output=csv";
 
 const categoryMap = {
-    "POD": "Podróże",
-    "GRY": "Gry",
-    "MAR": "Marzenia",
     "SPR": "Sprzęt",
     "RZC": "Rzeczy",
     "FLM": "Filmy",
     "OSB": "Osobiste",
-    "WYD": "Wywiad"
 };
 
 let items = [];
